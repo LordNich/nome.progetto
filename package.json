@@ -1,0 +1,30 @@
+{
+  "name": "stopschermo",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "test": "playwright test"
+  },
+  "dependencies": {
+    "next": "14.0.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "zustand": "4.4.1",
+    "idb": "7.1.1",
+    "chart.js": "4.4.0",
+    "next-pwa": "5.6.0",
+    "pdfmake": "0.2.7"
+  },
+  "devDependencies": {
+    "typescript": "5.2.2",
+    "@types/react": "18.2.21",
+    "@types/node": "20.5.1",
+    "tailwindcss": "3.3.3",
+    "postcss": "8.4.31",
+    "autoprefixer": "10.4.14",
+    "playwright": "1.39.0"
+  }
+}
